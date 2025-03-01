@@ -16,8 +16,8 @@ I'm Wesley Henrique, a front-end developer in training, and I'm creating some ve
 </a>	
 <br><br>
 <a href="https://github.com/henriquewesley/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=henriquewesley" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=henriquewesley" />
 </a>
 <a href="https://github.com/henriquewesley/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquewesley&layout=compact&langs_count=8&card_width=320" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=henriquewesley&layout=compact&langs_count=8&card_width=320" />
 </a>
