@@ -1,14 +1,14 @@
-<h2>👋 Hi there, Welcome </h2>
-I'm Wesley Henrique, a front-end developer in training, and I'm creating some very interesting projects.
-<h3>See below the technologies used in my projects:</h3>
+<h2>👋 Olá, bem-vindo </h2>
+Sou Wesley Henrique, desenvolvedor front-end em treinamento, e estou criando alguns projetos muito interessantes.
+<h3>Veja abaixo as tecnologias utilizadas em meus projetos:</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <br>
-<h3>:soon:Technologies I'm learning:</h3>
+<h3>:soon:Tecnologias que estou aprendendo:</h3>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <br>
-<h3>:link: Connect with me</h3>
+<h3>:link: Conecte-se comigo</h3>
 <a href="https://www.linkedin.com/in/henriquewesley/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"/>
 </a>
